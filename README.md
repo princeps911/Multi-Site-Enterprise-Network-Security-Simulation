@@ -6,7 +6,7 @@ I recently completed a deep-dive simulation of an Enterprise WAN for a downstrea
 1. The Architecture (Virtual Lab Setup)
 Using Cisco Packet Tracer, I built a three-tier network environment:
 
-Oghara Depot Segment: A Local Area Network (LAN) consisting of a 2911 Router (Gateway), a 2960 Switch, a Manager’s Laptop, and a Sales Database Server.
+Depot Segment: A Local Area Network (LAN) consisting of a 2911 Router (Gateway), a 2960 Switch, a Manager’s Laptop, and a Sales Database Server.
 
 Lagos HQ Segment: A corporate LAN with a 2911 Router, a 2960 Switch, and a CEO’s Laptop.
 
