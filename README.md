@@ -38,3 +38,9 @@ Connectivity Test: Successful ping from the Depot to the HQ, proving the routing
 Security Test: Verified the ACL by attempting a ping to the CEO’s laptop, resulting in a "Destination Host Unreachable"—proving the security policy was active.
 
 Remote Management: Configured VTY lines and passwords to allow secure remote access for troubleshooting regional hardware from a central location.
+
+### Network Topology
+![Topology Map](./images/topology.png)
+
+### Routing Verification
+![Routing Table](./images/routing_table.png)
